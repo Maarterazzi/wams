@@ -6573,6 +6573,16 @@ body.rco-home .rco-small-headline-right2 h2 {
     line-height: 28px
 }
 
+body.rco-home .rco-small-headline-right3 h2 {
+    font-family: 'Cabin, sans-serif', 'Trebuchet MS', 'Arial, sans-serif';
+    font-size: 6em;
+    border-color: inherit;
+    font-weight: bold;
+    width: auto;
+    display: inline-block;
+    line-height: 28px
+}
+
 body.rco-home .rco-small-headline-left h2 {
     font-family:'Cabin, sans-serif', 'Trebuchet MS', 'Arial, sans-serif';
     font-size: 10em;
@@ -6582,6 +6592,18 @@ body.rco-home .rco-small-headline-left h2 {
     display: inline-block;
     margin-top: -8px;
     line-height: 40px;
+}
+
+body.rco-home .rco-small-headline-center h2 {
+    font-family:'Cabin, sans-serif', 'Trebuchet MS', 'Arial, sans-serif';
+    font-size: 7em;
+    color: white;
+    font-style: italic;
+    border-color: inherit;
+    width: auto;
+    display: inline-block;
+    margin-top: -5px;
+    line-height: 30px;
 }
 
 body.rco-home .video-headline-left h2 {
