@@ -6580,6 +6580,7 @@ body.rco-home .rco-small-headline-right3 h2 {
     font-weight: bold;
     width: auto;
     display: inline-block;
+    margin-top: -20px;
     line-height: 28px
 }
 
@@ -6602,8 +6603,8 @@ body.rco-home .rco-small-headline-center h2 {
     border-color: inherit;
     width: auto;
     display: inline-block;
-    margin-top: -5px;
-    line-height: 30px;
+    margin-top: 5px;
+    line-height: 80px;
 }
 
 body.rco-home .video-headline-left h2 {
